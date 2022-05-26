@@ -643,11 +643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\can\\Desktop\\ETicaretUygulaması2\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+      "projectUniqueName": "C:\\Users\\can\\Documents\\GitHub\\E-commerceWebSite\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
       "projectName": "ETicaretAPI.Application",
-      "projectPath": "C:\\Users\\can\\Desktop\\ETicaretUygulaması2\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+      "projectPath": "C:\\Users\\can\\Documents\\GitHub\\E-commerceWebSite\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
       "packagesPath": "C:\\Users\\can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\can\\Desktop\\ETicaretUygulaması2\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
+      "outputPath": "C:\\Users\\can\\Documents\\GitHub\\E-commerceWebSite\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\can\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -664,8 +664,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\can\\Desktop\\ETicaretUygulaması2\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\can\\Desktop\\ETicaretUygulaması2\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
+            "C:\\Users\\can\\Documents\\GitHub\\E-commerceWebSite\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\can\\Documents\\GitHub\\E-commerceWebSite\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
             }
           }
         }

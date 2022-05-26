@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jZ/5joxx64gYMXfi5sUCXU240uidTxHQqIfqCRf9JIODwm1bNq8BSmcQYyp16JmfLEAjQVgbf0F9Rb4AGrL89g==",
+  "dgSpecHash": "o7lmcQ8aL2VG3hd1ZbM8YMuX/Ti9zLaiyJbyO+ylRN7vh2X1chqkws9aY3Fu6rFMXYe5agogObVBTAfzZXhEFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\can\\Desktop\\ETicaretUygulaması2\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\can\\Documents\\GitHub\\E-commerceWebSite\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\can\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
     "C:\\Users\\can\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.1\\fluentvalidation.aspnetcore.11.0.1.nupkg.sha512",

@@ -16,8 +16,8 @@ import { FileUploadComponent } from './services/common/file-upload/file-upload.c
 
 @NgModule({
   declarations: [
-    AppComponent,
-    FileUploadComponent,
+    AppComponent
+  
    
     
     
